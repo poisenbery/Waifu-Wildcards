@@ -1,0 +1,3 @@
+__hair/haircolor/haircolors__ __hair/hairlength/long/longhairstyles__
+__hair/haircolor/haircolors__ __hair/hairlength/short/shorthairstyles____hair/haircolor/haircolors__ __hair/hairbangs/bangs__ __hair/hairlength/long/longhairstyles__
+__hair/haircolor/haircolors__ __hair/hairbangs/bangs__ __hair/hairlength/short/shorthairstyles__
