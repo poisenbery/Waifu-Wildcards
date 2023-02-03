@@ -2,7 +2,8 @@
 AI wildcard for randomized anime hairstyles
 Use with this https://github.com/adieyal/sd-dynamic-prompts
 
-
+How to install:
+Place the ```hair``` folder into the wildcards directory
 How to use: 
 ```__hair/hairgen__ hair``` in prompt. Very WIP
 It's set up to choose between 1 of 4 templates: Short hair, long/medium hair, short hair + a bangs description, long/medium hair + a bangs description.
