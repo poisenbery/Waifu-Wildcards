@@ -4,7 +4,7 @@ Use with this https://github.com/adieyal/sd-dynamic-prompts
 
 
 How to use: 
-__hair/hairgen__ hair in prompt. Very WIP
+"__hair/hairgen__ hair" in prompt without quotes. Very WIP
 It's set up to choose between 1 of 4 templates: Short hair, long/medium hair, short hair + a bangs description, long/medium hair + a bangs description.
 All templates include randomized colors as well.
 
