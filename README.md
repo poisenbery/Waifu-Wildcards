@@ -1,18 +1,6 @@
-# Hairgen-Wildcard
-AI wildcard for randomized anime hairstyles
-Use with this https://github.com/adieyal/sd-dynamic-prompts
+WIP danbooru tags for wildcards. Currently has hair styles and colors, expressions/emotions, a lot of real world stuff like countries and brands, and most outfits
 
-How to install:
-Place the ```hair``` folder into the wildcards directory
-
-How to use: 
-```__hair/hairgen__ hair``` in prompt. Very WIP
-
-It's set up to choose between 1 of 4 templates: Short hair, long/medium hair, short hair + a bangs description, long/medium hair + a bangs description. Should produce a 50/50 mix of long/short.
-
-All templates include randomized colors as well.
-
-Samples:
+Hair samples:
 
 ![11836-3807899190-1girl with light goldenrod yellow widows peak pixie cut](https://user-images.githubusercontent.com/78466408/216549704-8815e947-e8ed-4753-919d-875378c3d499.png)
 ![11855-2312723997-light gray hime cut bangs undercut hair](https://user-images.githubusercontent.com/78466408/216549745-9b1fd4a0-d6f9-47ca-80e4-ee5aeadf640e.png)
