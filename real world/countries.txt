@@ -1,0 +1,149 @@
+Afghanistan
+Algeria
+Argentina
+Australia
+Melbourne
+Sydney
+Austria
+Vienna
+Belgium
+Bosnia and Herzegovina
+Brazil
+Vietnam
+Rio de Janeiro
+Cameroon
+Canada
+Toronto
+Chile
+Easter Island
+China
+Beijing
+Shanghai
+Hong Kong
+Macau
+Shenzhen
+Colombia
+Costa Rica
+Cote d'Ivoire
+Cuba
+Croatia
+Czech Republic
+Prague
+Denmark
+Ecuador
+Egypt
+Finland
+France
+Paris
+Marseille
+Germany
+Berlin
+Ghana
+Greece
+Honduras
+Hungary
+India
+Indonesia
+Iran
+Iraq
+Baghdad
+Ireland
+Israel
+Jerusalem
+Italy
+Florence
+Milan
+Naples
+Rome
+Venice
+Japan
+Hiroshima
+Kure
+Hokkaido
+Sapporo
+Kamakura
+Kobe
+Kyoto
+Nagasaki
+Nagoya
+Nara
+Onomichi
+Ooarai
+Osaka
+Saitama
+Tokyo
+Yokohama
+Jordan
+Kazakhstan
+Korea
+North Korea
+South Korea
+Seoul
+Malaysia
+Kuala Lumpur
+Mexico
+Mexico City
+Mongolia
+Montenegro
+Netherlands
+Nigeria
+Norway
+Pakistan
+Palestine
+East Jerusalem
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Romania
+Russia
+Moscow
+Saint Petersburg
+Leningrad
+Vladivostok
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Spain
+Barcelona
+Madrid
+Sweden
+Stockholm
+Switzerland
+Taiwan
+Taipei
+Kaohsiung
+Thailand
+Turkey
+Istanbul
+Byzantium
+Constantinople
+United Arab Emirates
+Dubai
+United Kingdom
+England
+London
+Northern Ireland
+Scotland
+Edinburgh
+Wales
+United States
+Boston
+Chicago
+Houston
+Las Vegas
+Los Angeles
+New York
+San Francisco
+Seattle
+Texas
+Washington D.C.
+Ukraine
+Chernobyl
+Pripyat
+Uruguay
+Venezuela
